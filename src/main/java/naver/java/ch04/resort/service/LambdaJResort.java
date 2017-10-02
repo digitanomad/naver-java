@@ -1,8 +1,7 @@
 package naver.java.ch04.resort.service;
 
-import static ch.lambdaj.Lambda.having;
-import static ch.lambdaj.Lambda.on;
-import static org.hamcrest.Matchers.equalTo;
+import static ch.lambdaj.Lambda.*;
+import static org.hamcrest.Matchers.*;
 
 import java.util.List;
 
